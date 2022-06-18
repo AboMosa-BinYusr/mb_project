@@ -25,7 +25,7 @@ SECRET_KEY = 'eam3=66*%n9ekc8-hl&hqi8e6r17&=qwuyjaj+m6%cbeuu&niu'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
